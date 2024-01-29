@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @icyybee
-- 👀 I’m into the field of Frontend development 
+- 👀 I’m a Frontend developer 
 - 🌱 I’m currently learning Typescript and building more projects with React
-- 🤭 Updated to now working with Typescript and building projects with Next
+- 🤭 Updated to ~ now working with Typescript and building projects with Next
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me ushiksmandi@gmail.com
 
