@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icyybee
-- 👀 I’m a Frontend developer 
-- 🌱 Currently working with Typescript and building more projects with Next
+- 👀 I’m a Software Engineer 
+- 🌱 Building Applications with Typescript and NextJS
 - 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me ushiksmandi@gmail.com
 
