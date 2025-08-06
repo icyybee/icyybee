@@ -1,10 +1,10 @@
 # 👋🏽 Hi, I'm Beatrice Egumandi
 
-Frontend Software Engineer | Next.js • TypeScript • Tailwind CSS  
+Software Engineer | Technical Writer | React.js • Next.js • TypeScript • Tailwind CSS  
 Building scalable, accessible, and user-focused web applications that solve real-world problems.  
-Also dabbling in backend development and technical writing ✍🏽.
+Dabbling deeper into backend architecture and system designs👩🏽‍💻.
 
-- 🌍 Based in Lagos, Nigeria | Open to remote roles globally
+- 🌍 Based in Lagos, Nigeria | Open to remote or onsite opportunities - very open to relocation for the right role
 - 🛠 4+ years experience in React, Next.js, TypeScript, Tailwind & more
 - ✨ Love building with accessibility, performance, and clean architecture in mind
 - 🧠 Currently learning advanced software architecture & fullstack best practices
